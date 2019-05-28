@@ -1,0 +1,5 @@
+// ==UserScript==
+// @name Figma Fuzzy Page Browser
+// @include https://www.figma.com/file/*
+// @description Provides an input to go to a figma page by fuzzy search string.
+// ==/UserScript==

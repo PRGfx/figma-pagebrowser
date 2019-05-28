@@ -1,0 +1,17 @@
+{
+  "name": "figma-pagebrowser",
+  "version": "0.1.0",
+  "description": "Generate a user-script to display a page-browser in the figma view-mode",
+  "private": true,
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "dependencies": {
+    "fuzzysort": "^1.1.4"
+  },
+  "devDependencies": {
+    "rollup": "^1.12.3",
+    "rollup-plugin-commonjs": "^10.0.0",
+    "rollup-plugin-node-resolve": "^5.0.0"
+  }
+}
